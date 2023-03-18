@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Testfälle>
+	<Scenario>
+		<GIVEN>
+			<Given value="This is a given in a scenario" />
+			<Given value="This is another given in a scenario" />
+			<Given value="This is a given another in a scenario" />
+		</GIVEN>
+		<WHEN>
+			<When value="This is a when in a scenario" />
+		</WHEN>
+	</Scenario>
+	<Scenario>
+		<GIVEN>
+			<Given value="This is a given in a scenario" />
+			<Given value="This is another given in a scenario" />
+			<Given value="This is a given another in a scenario" />
+		</GIVEN>
+		<WHEN>
+			<When value="This is a when in a scenario" />
+		</WHEN>
+	</Scenario>
+</Testfälle>
